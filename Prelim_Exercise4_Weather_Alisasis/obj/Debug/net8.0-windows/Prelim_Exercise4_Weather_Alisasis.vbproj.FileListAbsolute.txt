@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\bin\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.exe
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\bin\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.deps.json
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\bin\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.runtimeconfig.json
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\bin\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.dll
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\bin\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.pdb
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.Form1.resources
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.Resources.resources
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.dll
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\refint\Prelim_Exercise4_Weather_Alisasis.dll
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.pdb
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\Prelim_Exercise4_Weather_Alisasis.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Prelim_Exercise4_Weather_Alisasis\obj\Debug\net8.0-windows\ref\Prelim_Exercise4_Weather_Alisasis.dll

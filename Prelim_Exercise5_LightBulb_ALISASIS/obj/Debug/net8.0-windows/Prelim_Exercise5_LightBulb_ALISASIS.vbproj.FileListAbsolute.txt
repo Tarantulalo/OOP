@@ -1,0 +1,34 @@
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\bin\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.exe
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\bin\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.deps.json
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\bin\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.runtimeconfig.json
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\bin\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.dll
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\bin\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.pdb
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.Form1.resources
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.Resources.resources
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.dll
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\refint\Prelim_Exercise5_LightBulb_ALISASIS.dll
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.pdb
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\ref\Prelim_Exercise5_LightBulb_ALISASIS.dll
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\bin\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.exe
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\bin\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.deps.json
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\bin\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\bin\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.dll
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\bin\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.pdb
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.Form1.resources
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.Resources.resources
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.AssemblyInfo.vb
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.dll
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\refint\Prelim_Exercise5_LightBulb_ALISASIS.dll
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.pdb
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\Prelim_Exercise5_LightBulb_ALISASIS.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\OOP activities\Prelim_Exercise5_LightBulb_ALISASIS\obj\Debug\net8.0-windows\ref\Prelim_Exercise5_LightBulb_ALISASIS.dll
